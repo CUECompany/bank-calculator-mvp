@@ -43,7 +43,7 @@ README.md
 Запуск
 
 Клонировать репозиторий:
-git clone https://github.com/username/bank-calculator-mvp.git
+git clone https://github.com/CUECompany/bank-calculator-mvp.git
 cd bank-calculator-mvp
 
 Создать виртуальное окружение (Windows):
